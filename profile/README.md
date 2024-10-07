@@ -22,5 +22,5 @@ Conecte-se com a nossa comunidade:
 
 ## Contato 📧
 
-Para entrar em contato conosco, envie um e-mail para [ricardo.casonatto@ieee.org](mailto:ricardo.casonatto@ieee.org) ou visite nosso [Instagram](https://www.instagram.com/ieeecisunb/). 😊
+Para entrar em contato conosco, envie um e-mail para [ieeecisunb@gmail.com](mailto:ieeecisunb@gmail.com) ou visite nosso [Instagram](https://www.instagram.com/ieeecisunb/). 😊
 
