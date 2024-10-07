@@ -12,7 +12,7 @@ Aqui estão alguns dos nossos principais projetos:
 - [Projeto 2](URL_PROJETO2): Breve descrição do projeto 2. ✨
 - [Projeto 3](URL_PROJETO3): Breve descrição do projeto 3. 🚀
 
-Para ver todos os nossos projetos, visite nossa [página de repositórios](URL_DA_PÁGINA_DE_REPOS). 📂
+Para ver todos os nossos projetos, visite nossa [página de repositórios](https://github.com/orgs/UnB-CIS/repositories). 📂
 
 ## Comunidade 🌍
 
@@ -22,5 +22,5 @@ Conecte-se com a nossa comunidade:
 
 ## Contato 📧
 
-Para entrar em contato conosco, envie um e-mail para [ricardo.casonatto@ieee.org](mailto:ricardo.casonatto@ieee.org) ou visite nosso [Instagram](https://www.instagram.com/ieeecisunb/). 📞
+Para entrar em contato conosco, envie um e-mail para [ricardo.casonatto@ieee.org](mailto:ricardo.casonatto@ieee.org) ou visite nosso [Instagram](https://www.instagram.com/ieeecisunb/). 😊
 
