@@ -8,9 +8,9 @@ Somos um capítulo estudantil vinculado à IEEE, **a maior organização profiss
 
 Aqui estão alguns dos nossos principais projetos:
 
-- [Projeto 1](URL_PROJETO1): Breve descrição do projeto 1. 🔥
-- [Projeto 2](URL_PROJETO2): Breve descrição do projeto 2. ✨
-- [Projeto 3](URL_PROJETO3): Breve descrição do projeto 3. 🚀
+- [Aumento de Resolução de Imagens](https://github.com/UnB-CIS/cis-ieee-difusion-model): Este projeto explora o uso de algoritmos de difusão para aumentar a resolução de imagens, combinando inovação e ciência de dados. 🔥
+- [Sign]([URL_PROJETO2](https://github.com/UnB-CIS/Dogs_Breed_Recognition): Este projeto utiliza visão computacional para criar uma aplicação inovadora no ensino da língua de sinais. ✨
+- [Resgate e Reconhecimento de Animais](https://github.com/UnB-CIS/Dogs_Breed_Recognition): Este projeto visa criar uma plataforma inovadora que conecta cães perdidos a seus donos, utilizando tecnologia de ponta em reconhecimento de imagem. Com ferramentas como YOLO, TensorFlow e Python, identificamos raças e fazemos "matches" entre fotos de cães em situação de rua e registros de animais perdidos!. 🚀
 
 Para ver todos os nossos projetos, visite nossa [página de repositórios](https://github.com/orgs/UnB-CIS/repositories). 📂
 
