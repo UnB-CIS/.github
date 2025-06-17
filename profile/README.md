@@ -8,9 +8,11 @@ Somos um capítulo estudantil vinculado à IEEE, **a maior organização profiss
 
 Aqui estão alguns dos nossos principais projetos:
 
-- [Aumento de Resolução de Imagens](https://github.com/UnB-CIS/cis-ieee-difusion-model): Este projeto explora o uso de algoritmos de difusão para aumentar a resolução de imagens, combinando inovação e ciência de dados. 🔥
 - [Sign](https://github.com/UnB-CIS/Sign-Flame): Este projeto utiliza visão computacional para criar uma aplicação inovadora no ensino da língua de sinais. ✨
 - [Onde Está Meu Caramelo?](https://github.com/UnB-CIS/Dogs_Breed_Recognition): Este projeto visa criar uma plataforma inovadora que conecta cães perdidos a seus donos, utilizando tecnologia de ponta em reconhecimento de imagem. 🚀
+- [Aumento de Resolução de Imagens](https://github.com/UnB-CIS/cis-ieee-difusion-model): Este projeto explora o uso de algoritmos de difusão para aumentar a resolução de imagens, combinando inovação e ciência de dados. 🔥
+- [Hometrics](https://github.com/UnB-CIS/Hometrics): Projeto de predição dos valores de venda e aluguel de imóveis de Brasília. Esse projeto incluí a raspagem de dados, criação de pipeline automatizada , além de, análise e modelagem preditiva. 🏠
+- [Trainee](https://github.com/UnB-CIS/Trainee): Material utilizado no processo trainee dos nossos novos membros
 
 Para ver todos os nossos projetos, visite nossa [página de repositórios](https://github.com/orgs/UnB-CIS/repositories). 📂
 
